@@ -2,6 +2,14 @@
 ## Mini Floppy Emulator based on GOTEK
 
 * Mini floppy drive emulator with FlashFloppy software
+* 5x7cm PCB size
+
+Connections on pin header:
+* OLED display
+* Encoder
+* Buzzer
+* USB
+* Push buttons
 
 Assembled device:
  
